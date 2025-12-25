@@ -1,0 +1,63 @@
+# ===============================
+# Xcode
+# ===============================
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+xcuserdata/
+
+# ===============================
+# Swift Package Manager
+# ===============================
+.build/
+Packages/
+Package.resolved
+
+# ===============================
+# CocoaPods
+# ===============================
+Pods/
+Podfile.lock
+
+# ===============================
+# Carthage
+# ===============================
+Carthage/Build/
+
+# ===============================
+# fastlane
+# ===============================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# ===============================
+# Logs & temporary files
+# ===============================
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# ===============================
+# Environment & secrets
+# ===============================
+.env
+.env.*
+Secrets.plist
+
+# ===============================
+# Xcode playgrounds
+# ===============================
+timeline.xctimeline
+playground.xcworkspace
+
+# ===============================
+# Archives
+# ===============================
+*.xcarchive
